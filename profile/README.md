@@ -24,7 +24,8 @@ proactively protects data, freeing individuals and organizations to innovate.
 
 ## **Scope**
 
-### **In-Scope**
+<details>
+<summary><b>In-Scope</b></summary>
 
 * **Advanced Detection Techniques**: Developing novel methods for identifying
   secrets that go beyond simple pattern matching, including contextual analysis
@@ -41,8 +42,10 @@ proactively protects data, freeing individuals and organizations to innovate.
   vendors to use.
 * **Benchmarks**: Establishing neutral benchmarks for evaluating the
   effectiveness of different scanning tools and techniques.
+</details>
 
-### **Out-of-Scope**
+<details>
+<summary><b>Out-of-Scope</b></summary>
 
 * **Replicating Commercial Offerings**: This SIG will not build tools or
   services that directly compete with established commercial secret scanning
@@ -53,6 +56,7 @@ proactively protects data, freeing individuals and organizations to innovate.
   techniques, not a vulnerability disclosure platform.
 * **Product Endorsements**: The SIG will remain vendor-neutral and will not
   endorse specific commercial products.
+</details>
 
 ## **Resources**
 
